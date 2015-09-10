@@ -11,5 +11,18 @@ Sam Volin | 720-999-1335 |  samuel.volin@colorado.edu
 Alex Tsankov | 720-837-8797 | antsankov@gmail.com
 Michael Skirpan | | Michael.Skirpan@colorado.edu
 
+# Dev Server 
+The dev server is currently being hosted on openstack.cs.colorado.edu. 
+* Device IP: 128.138.202.39
+* Default user: ubuntu 
+* OS : Ubuntu 
+* RAM : 12GB
+* VCPUs : 2 VCPU
+* Disk : 16GB
+
+Ping me if you need to access it, and I can add your ssh public key. Log in with: 
+``` ssh ubuntu@128.138.202.39```
+
+
 
 
